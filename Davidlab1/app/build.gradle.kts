@@ -4,9 +4,7 @@ plugins {
 
 android {
     namespace = "david.odulana.n0155090"
-    compileSdk {
-        version = release(36)
-    }
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "david.odulana.n0155090"

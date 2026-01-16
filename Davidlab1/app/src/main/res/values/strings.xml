@@ -2,4 +2,5 @@
     <string name="app_name">Davidlab1</string>
     <string name="full_name">David Odulana</string>
     <string name="submit_label">Submit</string>
+    <string name="fallback">Fullname is required</string>
 </resources>
